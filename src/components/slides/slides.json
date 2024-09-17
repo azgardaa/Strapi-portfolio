@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_slides_slides",
+  "info": {
+    "displayName": "slides",
+    "icon": "alien",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "imageUrl": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "alt": {
+      "type": "string"
+    },
+    "text": {
+      "type": "text"
+    }
+  }
+}
