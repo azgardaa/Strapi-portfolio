@@ -7,7 +7,7 @@ module.exports = [
     config: {
       origin: [
         "http://localhost:3000",
-        "https://portfolio-gz2htvqne-noahs-projects-19610baa.vercel.app/",
+        "https://portfolio-taupe-eight-29.vercel.app/",
       ], // Ajouter les domaines autorisés
       methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
       headers: ["Content-Type", "Authorization", "Origin", "Accept"],
