@@ -10,13 +10,3 @@ module.exports = [
   "strapi::favicon",
   "strapi::public",
 ];
-module.exports = {
-  settings: {
-    cors: {
-      enabled: true,
-      origin: [
-        "https://portfolio-emcuxkdnj-noahs-projects-19610baa.vercel.app",
-      ], // Remplace par ton domaine
-    },
-  },
-};
